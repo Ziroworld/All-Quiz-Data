@@ -50,6 +50,7 @@ def load() :
         i += 1
     else :
         print("hello world ")
+        print("nilesh is an idiots ")
         pass
  
       
