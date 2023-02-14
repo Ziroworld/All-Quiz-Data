@@ -49,6 +49,7 @@ def load() :
         progress['value'] = 10 * i
         i += 1
     else :
+        print("hello world ")
         pass
  
       
